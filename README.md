@@ -65,29 +65,30 @@ An E-Commerce web application built with Django for the backend and React for th
 ### 1. Homepage with Product Listings:
    - Browse products with images, price, brand, and ratings.
    
-   ![Sample Homepage](WorkSamples\homepage.jpeg)
+   ![Sample Homepage](WorkSamples/homepage.jpeg)
 
 ### 2. Product Details Page:
    - View detailed product descriptions, available stock, and user reviews.
    
-   ![Product Details](WorkSamples\product-details.jpeg)
+   ![Product Details](WorkSamples/product-details.jpeg)
 
 ### 3. Shopping Cart:
    - Add or remove items from the shopping cart and view the total price.
 
-   ![Cart](WorkSamples\addcart.jpeg)
+   ![Cart](WorkSamples/addcart.jpeg)
 
 ### 4. Checkout:
    - Complete the checkout process by providing shipping details and payment.
 
-   ![Checkout](WorkSamples\shipping-address.jpeg)
-   ![Payments](WorkSamples\payments.jpeg)
+   ![Checkout](WorkSamples/shipping-address.jpeg)
+   ![Payments](WorkSamples/payments.jpeg)
 
 ### 5. Admin Dashboard:
    - Manage products, orders, and user accounts through the admin panel.
 
-   ![Admin Panel](WorkSamples\admin-user.jpeg)
-   ![Admin Panel](WorkSamples\admin-product.jpeg)
+   ![Admin Panel](WorkSamples/admin-user.jpeg)
+   ![Admin Panel](WorkSamples/admin-product.jpeg)
+
 
 ## Future Enhancements
 
